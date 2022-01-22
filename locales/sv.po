@@ -2264,7 +2264,7 @@ msgstr "För att skicka {0} behöver du sätta upp integrationen med {1}."
 #: frontend/src/metabase/components/ChannelSetupModal.jsx:38
 #: frontend/src/metabase/components/ChannelSetupModal.jsx:41
 msgid " or "
-msgstr "eller"
+msgstr " eller "
 
 #: frontend/src/metabase/components/ChannelSetupModal.jsx:40
 msgid "To send {0}, an admin needs to set up {1} integration."
